@@ -1,1 +1,2 @@
-ini adalah isi dari file 1 
+ini adalah isi dari file 1 : 
+ini adalah tugas manpro untuk github
